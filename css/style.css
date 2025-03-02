@@ -70,10 +70,11 @@ padding: 5px 25px;
     display: flex;
     margin-top: 20px;
     margin-left: 15%;
+    background-color: #FEFCFB;
 }
 .hero .hero-text{
     font-size: 40px;
-    margin-top: 80px;
+   margin-top: 80px;
 }
 .hero .hero-text h1{
     font-family: "volkhov",serif;
@@ -150,8 +151,9 @@ font-family: "poppins",sans-serif;
 }
 .main{
     background-color:#f7f8fc;
-    margin: 0;
+    
     height: auto;
+    
 }
 .content h1 p {
     text-align: center;
@@ -165,7 +167,8 @@ font-family: "poppins",sans-serif;
 }
 .content{
     text-align: center;
-    padding-top: 70px;
+    padding-top: 50px;
+    
 }
 .content img{
     position: relative;
